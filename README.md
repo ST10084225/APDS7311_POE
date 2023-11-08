@@ -1,7 +1,8 @@
-# ST10084225 APDS7311 POE Part 2
+# ST10084225 APDS7311 POE Part 3
 A project that uses the MERN stack to achieve a secure sign up and login system, that also supports creating, deleting and viewing posts.
 
 View the testing doc to see screenshots of the web-app as well as expected results in testing.
+
 View the Demo Vid for a brief demonstration of the web-app's functions.
 
 # Testing the app
